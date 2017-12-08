@@ -10,7 +10,7 @@
 	
 	function changeElements()
 	{
-		/*const url = './includes/functions.php?carModel=' + this.id;
+		const url = './includes/functions.php?carModel=' + this.id;
 		
 		fetch(url)
 		.then((resp) => resp.json())
@@ -18,7 +18,7 @@
 		.catch(function(error))
 			{
 			 console.log(error);  
-			});*/
+			});
 		//set up the AJAX call => handle errors first
 		/*if(!httpRequest)
 			{
